@@ -4,7 +4,6 @@
 ####   - Developed a interface like software which shares the information regarding current Trian avialiablity.
 ####  - Used Mysql(JDBC) to store train details and passengers details.
 
-
 ## 🤝 Team Members
 
 👤 **Mohamed Waseem A**
