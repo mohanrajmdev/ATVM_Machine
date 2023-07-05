@@ -6,7 +6,7 @@
 
 ## 🤝 Team Members
 
-👤 **Mohamed Waseem A**
+👤 [**Mohamed Waseem A**](https://github.com/waseem0605)
 
 👤 **Kavin Kumar S**
 
